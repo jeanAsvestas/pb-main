@@ -5,6 +5,9 @@ pipeline {
             args '-p 3000:3000'
         }
     }
+    tools{
+        nodejs '16.13.1'
+    }
     environment {
         CI = 'true'
     }
