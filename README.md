@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This application is developed with 18.2.0 version of npm
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
